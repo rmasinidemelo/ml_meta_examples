@@ -1,2 +1,3 @@
 # ml_meta_examples
-Notes for usageexamples of tidymodels, mlr3, mlr, sklearn
+
+Usage examples of tidymodels, mlr3, mlr, sklearn written for self-learning for later reference.
